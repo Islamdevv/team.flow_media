@@ -1,0 +1,851 @@
+@media (max-width: 1180px) {
+  .progress img {
+    max-width: 530px;
+  }
+  .main h1 {
+    padding: 20px 0;
+    font-size: 50px;
+    width: 640px;
+  }
+  #main {
+    padding: 40px 0 45px 0;
+  }
+  .play-store img {
+    max-width: 150px;
+  }
+  .footer img {
+    max-width: 150px;
+  }
+  .trust-table h1 {
+    font-size: 25px;
+    width: 380px;
+    line-height: 35px;
+  }
+}
+
+@media (max-width: 1125px) {
+  .work-box h4 {
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .work-box p {
+    width: 280px;
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .work-box {
+    max-width: 280px;
+  }
+  .icon-box {
+    width: 62px;
+    height: 62px;
+  }
+}
+
+@media (max-width: 1077px) {
+  .progress img {
+    max-width: 450px;
+  }
+  .timeline img {
+    max-width: 480px;
+  }
+  .trust-table {
+    height: 200px;
+  }
+  .work-box {
+    max-width: 250px;
+  }
+  .work-box p {
+    width: 250px;
+  }
+  #team {
+    padding: 50px 0;
+  }
+  .timeline-box {
+    width: 250px;
+    padding: 12px 25px;
+    height: 70px;
+  }
+  .main h1 {
+    padding: 20px 0;
+    font-size: 45px;
+    width: 570px;
+    font-weight: 500;
+  }
+  .main-submit input {
+    width: 310px;
+    height: 45px;
+    padding-left: 18px;
+    font-size: 15px;
+  }
+  .main-submit button {
+    width: 130px;
+    height: 49.5px;
+    margin-left: -5px;
+    font-size: 15px;
+  }
+  .main-acc button {
+    padding: 7px 18px;
+    border-radius: 26px;
+    font-weight: 400;
+    font-size: 15px;
+  }
+  .save {
+    padding: 7px 26px;
+    margin-left: -15px;
+    font-size: 15px;
+  }
+  .nav-btn button {
+    padding: 11px 19px;
+  }
+  .progress-text button {
+    padding: 11px 19px;
+  }
+  .play-store img {
+    max-width: 140px;
+  }
+  .footer img {
+    max-width: 140px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .main h1 {
+    padding: 18px 0;
+    font-size: 40px;
+    width: 500px;
+  }
+  .main p {
+    width: 470px;
+    font-size: 15px;
+  }
+  #main {
+    padding: 20px 0 35px 0;
+  }
+  nav select,
+  a,
+  button {
+    font-size: 14px;
+    color: #000;
+  }
+  .nav-btn button {
+    padding: 11px 19px;
+    font-size: 14px;
+  }
+  .header h3 {
+    font-size: 20px;
+  }
+  #header {
+    padding: 20px 0;
+  }
+  .header {
+    gap: 90px;
+  }
+  .icon-box {
+    width: 58px;
+    height: 58px;
+  }
+  .progress-text p {
+    margin: 21px 0;
+    width: 380px;
+  }
+  .progress img {
+    max-width: 430px;
+  }
+  .team p {
+    width: 490px;
+    line-height: 27px;
+    margin: 26px 0;
+  }
+  .team-box {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    gap: 17px;
+  }
+}
+
+@media (max-width: 960px) {
+  .main h1 {
+    padding: 18px 0;
+    font-size: 40px;
+    width: 500px;
+  }
+  .main p {
+    width: 470px;
+    font-size: 15px;
+  }
+
+  nav select,
+  a,
+  button {
+    font-size: 12px;
+    color: #000;
+  }
+  .nav-btn button {
+    padding: 11px 19px;
+    font-size: 13px;
+  }
+  .header h3 {
+    font-size: 19px;
+  }
+
+  .icon-box {
+    width: 54px;
+    height: 54px;
+  }
+  .progress-text p {
+    margin: 18px 0;
+    width: 350px;
+    font-size: 15px;
+  }
+  .progress img {
+    max-width: 400px;
+  }
+  .team p {
+    width: 450px;
+    line-height: 27px;
+    margin: 20px 0;
+  }
+  .team-box p span {
+    font-weight: 300;
+    font-size: 14px;
+  }
+  .team-box p {
+    width: 150px;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .team-box {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    gap: 17px;
+  }
+  .trust-table {
+    height: 170px;
+  }
+  .main-acc button {
+    font-size: 14px;
+  }
+  .save {
+    margin-left: -13px;
+    font-size: 14px;
+  }
+  .work-box p {
+    width: 220px;
+    font-size: 14px;
+  }
+  .play-store img {
+    max-width: 130px;
+  }
+  .footer img {
+    max-width: 130px;
+  }
+  .trust-table h1 {
+    font-size: 22px;
+    width: 330px;
+    line-height: 32px;
+  }
+  #footer {
+    padding-block: 45px;
+  }
+
+  .footer ul li {
+    font-size: 14px;
+  }
+  #footer-end {
+    padding-block: 13px;
+  }
+  .footer-icons div {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+  }
+
+  .footer-end p {
+    font-size: 14px;
+  }
+  .main-teams_image img {
+    max-width: 58px;
+  }
+  .main p {
+    width: 400px;
+  }
+  .timeline img {
+    max-width: 450px;
+  }
+  #work {
+    padding: 50px 0;
+  }
+  #trust-table {
+    padding-bottom: 50px;
+  }
+}
+
+@media (max-width: 910px) {
+  .progress-text p {
+    width: 310px;
+  }
+  .timeline img {
+    max-width: 430px;
+  }
+}
+
+@media (max-width: 895px) {
+  .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  .header {
+    gap: 75px;
+  }
+}
+
+@media (max-width: 882px) {
+  .work {
+    height: 570px;
+    padding: 45px 0 0 0;
+    justify-content: space-around;
+  }
+  .timeline-box {
+    width: 230px;
+    padding: 12px 25px;
+    height: 71px;
+  }
+  .timeline-box p {
+    width: 250px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 882px) {
+  .progress img {
+    max-width: 380px;
+  }
+  .timeline img {
+    max-width: 410px;
+  }
+  .trust-table {
+    height: 148px;
+  }
+  #footer {
+    padding-block: 36px;
+  }
+  #footer-end {
+    padding-block: 11px;
+  }
+  .play-store img {
+    max-width: 120px;
+  }
+  .footer img {
+    max-width: 120px;
+  }
+  .main-teams_image {
+    padding: 25px 0;
+    width: 620px;
+  }
+  .main h1 {
+    padding: 16px 0;
+    font-size: 36px;
+    width: 465px;
+  }
+  .main-acc button {
+    padding: 5px 13px;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 14px;
+  }
+  .save {
+    padding: 5px 20px;
+    margin-left: -12px;
+    font-size: 14px;
+  }
+  .main p {
+    width: 400px;
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .main-submit input {
+    width: 250px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 14px;
+  }
+  .main-submit button {
+    width: 100px;
+    height: 44px;
+    margin-left: -5px;
+    font-size: 14px;
+  }
+  .main img {
+    max-width: 600px;
+    width: 100%;
+  }
+  .main-teams_image img {
+    max-width: 58px;
+  }
+  .team p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 835px) {
+  .timeline img {
+    max-width: 400px;
+  }
+  .timeline-box {
+    width: 240px;
+    padding: 10px;
+    height: 65px;
+  }
+  .timeline-box p {
+    width: 230px;
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .header {
+    gap: 50px;
+  }
+  .progress-text p {
+    width: 280px;
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  .progress img {
+    max-width: 360px;
+  }
+  .main p {
+    font-size: 14px;
+  }
+  .main h1 {
+    padding: 16px 0;
+    font-size: 33px;
+    width: 400px;
+  }
+  .main-submit input {
+    width: 230px;
+    height: 35px;
+    padding-left: 10px;
+    font-size: 13px;
+  }
+  .main-submit button {
+    width: 80px;
+    height: 40px;
+    font-size: 13px;
+  }
+
+  .team-box p {
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .team-box p span {
+    font-size: 13px;
+  }
+  .team-box img {
+    max-width: 43px;
+  }
+  .trust-table h1 {
+    font-size: 20px;
+    width: 300px;
+    line-height: 30px;
+  }
+  .play-store img {
+    max-width: 105px;
+  }
+  .footer img {
+    max-width: 105px;
+  }
+  .footer ul li {
+    font-size: 13px;
+  }
+  .footer-end p {
+    font-size: 13px;
+  }
+  ul {
+    gap: 11px;
+  }
+  #footer {
+    padding-block: 30px;
+  }
+  #footer-end {
+    padding-block: 9px;
+  }
+  .footer-icons div {
+    width: 26px;
+    height: 26px;
+    font-size: 14px;
+  }
+  #work h1 {
+    font-size: 24px;
+  }
+  .team h1 {
+    font-size: 24px;
+    width: 300px;
+  }
+  .team p {
+    line-height: 25px;
+    margin: 15px 0;
+  }
+}
+
+@media (max-width: 802px) {
+  .burger-menu {
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+  .timeline img {
+    max-width: 370px;
+  }
+  .timeline-box h4 {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .timeline-box {
+    height: 60px;
+  }
+}
+
+@media (max-width: 802px) {
+  .progress {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+  }
+  .progress-text p {
+    width: 270px;
+  }
+  .progress-text h1 {
+    width: 257px;
+  }
+  .timeline {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .timeline-box {
+    width: 270px;
+    padding: 10px;
+    height: 70px;
+  }
+  .timeline-box p {
+    width: 250px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  #timeline {
+    padding: 40px 0;
+  }
+  #work {
+    padding: 40px 0;
+  }
+  #progress {
+    padding: 40px 0;
+    background: #fbfafe;
+  }
+  #team {
+    padding: 40px 0;
+  }
+  .main-teams_image {
+    width: 580px;
+  }
+}
+
+@media (max-width: 665px) {
+  .main-teams_image {
+    width: 510px;
+  }
+  .main h1 {
+    padding: 8px 0;
+    font-size: 27px;
+    width: 345px;
+  }
+  #header {
+    padding: 11px 0;
+  }
+  .main-acc button {
+    padding: 4px 10px;
+    border-radius: 17px;
+    font-size: 13px;
+  }
+  .save {
+    padding: 4px 16px;
+    margin-left: -8px;
+    font-size: 13px;
+  }
+  .main p {
+    font-size: 13px;
+  }
+  .main-submit {
+    margin-top: 15px;
+  }
+  .work-box p {
+    font-size: 13px;
+  }
+  .work-box h4 {
+    font-size: 15px;
+  }
+  .icon-box {
+    width: 50px;
+    height: 50px;
+  }
+  .icon-box img {
+    width: 21px;
+  }
+  #work h1 {
+    font-size: 22px;
+  }
+  .progress-text h1 {
+    width: 230px;
+    font-size: 22px;
+  }
+  .progress-text p {
+    width: 316px;
+    font-size: 13px;
+  }
+  .progress-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .team h1 {
+    font-size: 22px;
+    width: 300px;
+  }
+  .team p {
+    font-size: 13px;
+    line-height: 22px;
+    margin: 12px 0;
+  }
+  .team-box {
+    width: 180px;
+    gap: 10px;
+  }
+  .team-box p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .team-box p span {
+    font-size: 12px;
+  }
+  .trust-table h1 {
+    font-size: 16px;
+    width: 256px;
+    line-height: 25px;
+  }
+  .trust-table {
+    height: 115px;
+  }
+  .play-store img {
+    max-width: 90px;
+  }
+  .footer img {
+    max-width: 90px;
+  }
+}
+@media (max-width: 580px) {
+  .work {
+    height: 1040px;
+    padding: 27px 0 0 0;
+    justify-content: space-around;
+  }
+  .work-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .team-box p {
+    width: 100px;
+  }
+
+  .team-block {
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+  .team-box {
+    display: flex;
+    justify-content: center;
+    width: 180px;
+    gap: 15px;
+  }
+  .trust-table h1 {
+    font-size: 14px;
+    width: 220px;
+    line-height: 21px;
+  }
+  .play-store img {
+    max-width: 75px;
+  }
+  .trust-table {
+    height: 92px;
+  }
+  .footer img {
+    max-width: 75px;
+  }
+}
+
+@media (max-width: 510px) {
+  .footer ul li {
+    font-size: 11px;
+  }
+  .footer-end p {
+    font-size: 11px;
+  }
+  .team-box p {
+    font-size: 11px;
+    line-height: 17px;
+  }
+  .team-box p span {
+    font-size: 11px;
+  }
+  .team-box img {
+    max-width: 37px;
+  }
+  .team-box {
+    width: 180px;
+    gap: 7px;
+  }
+  .team p {
+    font-size: 11px;
+    line-height: 19px;
+    margin: 11px 0;
+  }
+  .team h1 {
+    font-size: 18px;
+    width: 245px;
+  }
+  #team {
+    padding: 25px 0;
+  }
+  #trust-table {
+    padding-bottom: 30px;
+  }
+  .progress-text button {
+    padding: 8px 10px;
+    font-size: 11px;
+  }
+  .progress-text p {
+    width: 307px;
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .progress-text h1 {
+    width: 200px;
+    font-size: 18px;
+  }
+  .work-box p {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .work-box h4 {
+    font-size: 13px;
+  }
+  .icon-box img {
+    width: 15px;
+  }
+  .icon-box {
+    width: 38px;
+    height: 38px;
+  }
+  .work {
+    height: 850px;
+    padding: 22px 0 0 0;
+  }
+  #work h1 {
+    font-size: 18px;
+  }
+  #work {
+    padding: 30px 0;
+  }
+  .timeline-box p {
+    width: 204px;
+    font-size: 11px;
+    line-height: 20px;
+  }
+  .timeline-box {
+    width: 210px;
+    padding: 10px;
+    height: 63px;
+  }
+  .timeline img {
+    max-width: 330px;
+  }
+  .main-teams_image {
+    padding: 15px 0;
+    width: 400px;
+  }
+  .main-teams_image img {
+    max-width: 40px;
+  }
+  .main p {
+    font-size: 12px;
+  }
+  #main {
+    padding: 20px 0 25px 0;
+  }
+  .main h1 {
+    padding: 8px 0;
+    font-size: 20px;
+    width: 300px;
+  }
+  .main p {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .main-submit input {
+    width: 196px;
+    height: 27px;
+    padding-left: 7px;
+    font-size: 10px;
+  }
+  .main-submit button {
+    width: 75px;
+    height: 31px;
+    font-size: 11px;
+  }
+  .main-acc button {
+    padding: 4px 10px;
+    border-radius: 17px;
+    font-size: 11px;
+  }
+  .save {
+    padding: 4px 16px;
+    margin-left: -8px;
+    font-size: 11px;
+  }
+  .burger-menu img {
+    width: 20px;
+  }
+  .header h3 {
+    font-size: 16px;
+  }
+  #header {
+    padding: 7px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .play-store img {
+    max-width: 65px;
+  }
+  .footer img {
+    max-width: 75px;
+  }
+  .team-block {
+    gap: 0;
+  }
+  .team-box {
+    height: 55px;
+  }
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+}
